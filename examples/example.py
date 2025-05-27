@@ -1,5 +1,5 @@
 __all__ = ['example']
-
+# x=2
 # Don't look below, you wont understand this Python code :) I don't.
 
 from js2py.pyjs import *
